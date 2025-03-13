@@ -29,6 +29,7 @@ Here are some highlights of my work:
 1. Clone the repo:  
    ```sh
    git clone https://github.com/ArtOfWorking/portfolio.git
+   ```
 
 
 ## 📫 Connect With Me  
